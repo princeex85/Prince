@@ -26,7 +26,7 @@ Explore workforce trends, employee attrition, and departmental insights.
 - Machine Learning Fundamentals
 
 ### 🤝 Connect With Me
-- **LinkedIn:** [Connect with me](www.linkedin.com/in/prince-dataanalyst)
+- **LinkedIn:** [Connect with me] (www.linkedin.com/in/prince-dataanalyst)
 - **Email:** mail.peincehu@gmail.com
 
 ---
